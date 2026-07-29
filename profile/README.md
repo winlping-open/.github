@@ -11,9 +11,9 @@
 ## 项目
 <a href="https://github.com/winlping-open/fast-gateway">
     <img src="https://img.shields.io/badge/Go-1.26+-00ADD8?style=flat&logo=go" alt="Go">
+  <b>fast-gateway</b>
+  Go 语言写的 API 网关，支持路由转发、服务发现、负载均衡、熔断降级。[源码](https://github.com/winlping-open/fast-gateway) · [用户手册](https://github.com/winlping-open/fast-gateway/blob/main/docs/user-manual.md)
 </a>
-### fast-gateway
-Go 语言写的 API 网关，支持路由转发、服务发现、负载均衡、熔断降级。[源码](https://github.com/winlping-open/fast-gateway) · [用户手册](https://github.com/winlping-open/fast-gateway/blob/main/docs/user-manual.md)
 
 ---
 
