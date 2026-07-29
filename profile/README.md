@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winlping-open/.github/main/profile/org-logo.jpg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winlping-open/.github/main/profile/org-logo.jpg">
-    <img width="200" alt="winlping-open" src="https://raw.githubusercontent.com/winlping-open/.github/main/profile/org-logo.jpg">
+    <img width="100%" alt="winlping-open" src="https://raw.githubusercontent.com/winlping-open/.github/main/profile/org-logo.jpg">
   </picture>
 </div>
 
